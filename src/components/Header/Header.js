@@ -12,7 +12,7 @@ const Header = () => {
       </h3>
       <ul className="d-flex">
         <li>
-          <a href="#">People</a>
+          <a type="URL" href="#">People</a>
         </li>
         <li>
           <a href="#">Planets</a>
